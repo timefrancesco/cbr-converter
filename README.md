@@ -1,4 +1,4 @@
-cbr-converter
+Cbr Converter
 =============
 
 
