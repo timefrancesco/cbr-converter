@@ -10,14 +10,26 @@ namespace CbrConverter
     public class DataAccess
     {
         private static DataAccess _instance;
+
+        private static string _output_dir;  
         private static string _working_dir;                                 //current selected directory   
         private static string _working_file;    //current processing file
         private static bool _processing;
         private static double _curProgress;
         private static double _totProgress;
         private static bool _ReduceSize;
-      
-     
+
+        public string g_Output_dir
+        {
+            get
+            {
+                return _output_dir;
+            }
+            set
+            {
+                _output_dir = value;
+            }
+        }
 
         public string g_WorkingDir
         {

@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="CbrConverterOsx/cbr-converter-osx.csproj" MonoDevelop.MonoMac.LastXamMacNagTime="10/09/2015 2:47:03 a.m.">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConverterEngine/Extract.cs">
+    <Files>
+      <File FileName="ConverterEngine/Extract.cs" Line="15" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
