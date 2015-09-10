@@ -13,3 +13,9 @@ It's developed in C# and run in Windows and OSX.
 NOTE: Not every PDF can be converted.
 
 Merged with https://github.com/dragouf/CbrPdfConverter
+
+###Screenshots
+
+![Windows](Screenshots/CbrConverterWin.png?raw=true "Windows")  
+
+![Osx](Screenshots/CbrConverterOsx.png?raw=true "Osx")
