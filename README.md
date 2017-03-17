@@ -14,7 +14,7 @@ NOTE: Not every PDF can be converted.
 
 Merged with https://github.com/dragouf/CbrPdfConverter
 
-###Screenshots
+### Screenshots
 
 ![Windows](Screenshots/CbrConverterWin.png?raw=true "Windows")  
 
